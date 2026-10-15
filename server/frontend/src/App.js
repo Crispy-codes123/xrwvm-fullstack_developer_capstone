@@ -1,6 +1,7 @@
 import LoginPanel from "./components/Login/Login"
 import { Routes, Route } from "react-router-dom";
 import Register from "./components/Register/register";
+import Register from "./components/Register/register";
 
 function App() {
   return (
