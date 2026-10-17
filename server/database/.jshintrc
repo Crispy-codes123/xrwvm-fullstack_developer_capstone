@@ -1,5 +1,7 @@
 {
   "esversion": 6,
   "node": true,
-  "asi": true
+  "asi": true,
+  "undef": false,
+  "unused": false
 }
